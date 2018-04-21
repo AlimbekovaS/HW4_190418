@@ -1,0 +1,9 @@
+1 Abaya 15 5 3 64
+2 Timiry 30 2 3 65
+3 Saina 155 1 4 155
+4 Abaya 15 2 1 60
+5 Abaya 15 4 2 84
+6 Gagar 56 2 1 60
+7 Utepov 63 3 3 94
+8 Zharok 55 1 1 63
+9 Markov 24 3 2 105
